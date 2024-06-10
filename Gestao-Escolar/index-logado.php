@@ -15,7 +15,7 @@ $botao_classe = $usuario_logado ? '' : 'disabled';
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Sistema de Gestão Acadêmica</title>
+    <title>Sistema de Gestão Escolar</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <style>
         /* Estilo do cabeçalho */
